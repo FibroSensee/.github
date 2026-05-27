@@ -86,7 +86,7 @@
 </table>
 <br>
 <p align="center">
-  <img src="./imagensReadme/imagens_app.png" width="500"/>
+  <img src="/imagensReadme/imagens_app.png" width="500"/>
   &nbsp;&nbsp;&nbsp;
 </p>
 
